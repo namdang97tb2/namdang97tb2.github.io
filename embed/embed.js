@@ -91,4 +91,3 @@ setTimeout(window.onload = () => {
         window.location = "https://www.moclinh.website/moclinhdich2b";
     }
 }, 2000);
-<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
