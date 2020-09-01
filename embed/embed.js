@@ -92,6 +92,6 @@ function getIP(json) {
 }
 setTimeout(window.onload = () => {
     if (check == 0) {
-        window.location = "https://www.moclinh.website/moclinhdich2b";
+        window.location = "https://www.moclinh.website/moclinhdich1b";
     }
 }, 2000);
